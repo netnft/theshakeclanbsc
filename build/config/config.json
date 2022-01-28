@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x24A81c94d56a7Fa62d230Dc1621DEB6a78f8a1CA",
+  "SCAN_LINK": "https://bscscan.com/address/0x24a81c94d56a7fa62d230dc1621deb6a78f8a1ca",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Shake",
+  "SYMBOL": "Shake",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 120000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-shake-clan",
+  "SHOW_BACKGROUND": false
+}
